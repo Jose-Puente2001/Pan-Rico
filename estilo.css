@@ -1,5 +1,32 @@
-.section{
+.parallax-container{
 
-	font-family: verdana;
 	text-align: center;
+	color:#ffa259;
+
+}
+
+#local{
+
+	height: 250px;
+}
+
+
+.container{
+
+	text-align: center;
+	font-family: verdana;
+
+}
+
+#texto{
+
+	text-align: justify;
+	font-size: 25px;
+
+}
+
+.dulce{
+
+	height: 150px;
+	text-align: right;
 }
